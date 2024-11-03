@@ -1,4 +1,34 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=This%20is%20Nithin&textBg=true&fontSize=60&fontAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=3" alt="Nithin V Pawar Capsule Render">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dynamic Capsule Render</title>
+</head>
+<body>
+
+<img id="capsuleImage" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=This%20is%20Nithin%20V%20Pawar&textBg=false&fontSize=60&fontAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=3" alt="Nithin Capsule Render">
+
+<script>
+  // Array of color themes to cycle through every 5 seconds
+  const colors = ['gradient', 'random', '0:0:255', '128:0:128', '255:165:0'];
+  let index = 0;
+
+  function updateImage() {
+    // Update the color parameter in the URL
+    document.getElementById('capsuleImage').src = `https://capsule-render.vercel.app/api?type=waving&height=300&color=${colors[index]}&text=This%20is%20Nithin%20V%20Pawar&textBg=false&fontSize=60&fontAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=3`;
+    
+    // Cycle through colors
+    index = (index + 1) % colors.length;
+  }
+
+  // Change the image every 5 seconds
+  setInterval(updateImage, 5000);
+</script>
+
+</body>
+</html>
+
 
 
 # 💫 About Me:
