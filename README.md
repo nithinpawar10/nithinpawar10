@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=This%20is%20Nithin&textBg=true&fontSize=60&fontAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=3" alt="Nithin Capsule Render">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=This%20is%20Nithin&textBg=true&fontSize=60&fontAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=3" alt="Nithin V Pawar Capsule Render">
 
 
 # 💫 About Me:
