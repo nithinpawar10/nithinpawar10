@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=This%20is%20Htivus%20:%20suvitH&textBg=false&fontSize=60&fontAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=3" alt="Nithin Capsule Render">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=This%20is%20Nithin&textBg=false&fontSize=60&fontAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=3" alt="Nithin Capsule Render">
+
 # 💫 About Me:
 🔭 I’m currently working on: Enhancing my coding skills and developing websites.<br>🤝 I’m looking to collaborate on: Web development projects, especially ones that involve innovative technologies.<br>🤲 I’m looking for help with: Learning new tech stacks and best practices in web development.<br>🌱 I’m currently learning: The latest in technology, coding techniques, and frameworks to improve my web development skills.<br>💬 Ask me about: Coding, website development, and anything tech-related!<br>⚡ Fun fact: I'm always eager to dive into new tech and explore ways to make websites more engaging and user-friendly.<br><br>
 
